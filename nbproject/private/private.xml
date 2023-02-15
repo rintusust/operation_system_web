@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Views/Dashboard/hrm.blade.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Controllers/DGController.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Controllers/EmbodimentController.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Controllers/BlockBlackController.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Models/PanelModel.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Models/CustomQuery.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/Jobs/BlockForAge.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Controllers/RetireAnsarManagementController.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Views/Dashboard/hrm-rc-dc.blade.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Models/AnsarRetireHistory.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/routes.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Models/RestInfoModel.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Models/PersonalnfoLogModel.php</file>
+            <file>file:/D:/XAMPP/htdocs/ansarerp/local/app/modules/HRM/Controllers/KpiController.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,167 @@
+{
+  "ansar_in_guard_report": {
+    "report_header": "List of Ansars in Guard",
+    "guard": {
+      "kpi_title": "Guard Details",
+      "kpi_name": "Guard Name",
+      "kpi_address": "Guard Address",
+      "kpi_type": "Guard Type",
+      "kpi_ansar_given": "Total Given Ansar",
+      "kpi_current_ansar": "Total Current Ansar"
+    },
+    "ansar": {
+      "ansar_title": "Ansar Details",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "dob": "Date of birth",
+      "height": "height",
+      "education": "Education",
+      "rank": "Rank",
+      "district": "Own District",
+      "mobile": "Mobile",
+      "avub_share_id": "Share Id",
+      "embodiment_date": "Embodiment date",
+      "join_date": "Transfer date"
+    }
+  },
+  "ansar_service_report": {
+    "header": "View Ansar Service Report",
+    "ansar_detail": {
+      "name": "Name",
+      "rank": "Rank",
+      "bg": "Blood Group",
+      "district": "District"
+    },
+    "past": {
+      "header": "Details regarding previous employment",
+      "sl_no": "SL No.",
+      "jd": "Embodiment Date",
+      "rdmi": "Reporting Memorandum & Date",
+      "dn": "Unit Name",
+      "kn": "Guard Name",
+      "dd": "Disembodiment Date",
+      "tsd": "Total Service Days",
+      "dr": "Reason of Disembodiment"
+    },
+    "current": {
+      "header": "Details regarding present employment",
+      "sl_no": "SL No.",
+      "jd": "Embodiment Date",
+      "rdmi": "Reporting Memorandum & Date",
+      "dn": "Unit Name",
+      "kn": "Guard Name",
+      "dd": "Disembodiment Date",
+      "tsd": "Total Service Days",
+      "dr": "Reason of Disembodiment"
+    }
+  },
+  "ansar_id_card": {
+    "title": "Bangladesh Ansar and Village Defence Party",
+    "name": "Name",
+    "id_no": "ID NO",
+    "rank": "Rank",
+    "bg": "Blood Group",
+    "unit": "District",
+    "id": "Issue Date",
+    "ed": "Expire Date",
+    "bs": "Bearer`s Sign",
+    "is": "Issuer`s Sign",
+    "footer_title": "Issuing Authority: Bangladesh Ansar & VDP"
+  },
+  "ansar_disembodiment_report": {
+    "header": "Disembodied Ansar Info",
+    "ansar": {
+      "ansar_title": "Ansar Details",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "district": "Own District",
+      "kpi_name": "KPI Name",
+      "reporting_date": "Reporting Date",
+      "joining_date": "Embodiment Date",
+      "disembodiment_reason": "Dismbodiment Reason",
+      "disembodiment_date": "Dismbodiment date",
+      "total_service_days": "Total Service Days"
+    }
+  },
+  "ansar_embodiment_report": {
+    "header": "Embodied Ansar Info",
+    "ansar": {
+      "ansar_title": "Ansar Details",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "district": "Own District",
+      "kpi_name": "KPI Name",
+      "reporting_date": "Reporting Date",
+      "joining_date": "Embodiment Date",
+      "service_ended_date": "Service Ending date"
+    }
+  },
+  "blocklisted_ansar_report": {
+    "header": "Blocklist Info",
+    "ansar": {
+      "ansar_title": "Blocklist Info",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "district": "Own District",
+      "date_of_birth": "Date of Birth",
+      "sex": "Gender",
+      "blocklisted_from_where": "Blocklisted from where",
+      "blocked_reason": "Blocklisted Reason",
+      "blocked_date": "Blocklisted Date"
+    }
+  },
+  "blacklisted_ansar_report": {
+    "header": "Blacklist Info",
+    "ansar": {
+      "ansar_title": "Blacklist Info",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "district": "Own District",
+      "date_of_birth": "Date of Birth",
+      "sex": "Gender",
+      "blacklisted_from_where": "Blacklisted from where",
+      "blacked_reason": "Blacklisted Reason",
+      "blacked_date": "Blacklisted Date"
+    }
+  },
+  "three_years_over_ansar_report": {
+    "header": "Three Years Over Service Report",
+    "ansar": {
+      "ansar_title": "Ansar Details",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "district": "Own District",
+      "kpi_name": "KPI Name",
+      "kpi_unit": "Unit",
+      "reporting_date": "Reporting Date",
+      "joining_date": "Embodiment Date",
+      "service_ended_date": "Dis Embodiment Date"
+    }
+  },
+  "service_record_unitwise": {
+    "header": "Ansar Service Record Unit Wise",
+    "ansar": {
+      "ansar_title": "Ansar Details",
+      "sl_no": "Sl. No.",
+      "id": "Ansar ID",
+      "name": "Name",
+      "rank": "Rank",
+      "kpi_name": "KPI Name",
+      "district": "Own District",
+      "reporting_date": "Reporting Date",
+      "joining_date": "Embodiment Date",
+      "service_ended_date": "Service Ending date"
+    }
+  }
+}
