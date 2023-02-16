@@ -33,7 +33,7 @@ return [
 	
 	
 
-    'default' => 'hrm',
+    'default' => 'operation',
 
     /*
     |--------------------------------------------------------------------------
@@ -76,9 +76,9 @@ return [
             'driver' => 'mysql',
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'db_amis',
-            'username' => 'root',
-            'password' => '',
+            'database' => 'ansar',
+            'username' => 'rintu',
+            'password' => 'r!ntu@2023#',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
@@ -115,9 +115,9 @@ return [
             'driver' => 'mysql',
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'ansar_operation',
-            'username' => 'root',
-            'password' => '',
+            'database' => 'ansar',
+            'username' => 'rintu',
+            'password' => 'r!ntu@2023#',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
