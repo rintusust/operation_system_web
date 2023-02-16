@@ -79,10 +79,10 @@ return [
                     "route" => "operation.thana_view",
                     "icon" => "fa-cog",
                 ],
-                "Union Setting" => [
+                /*"Union Setting" => [
                     "route" => "operation.union.index",
                     "icon" => "fa-cog",
-                ]
+                ]*/
             ]
         ]
     ]
