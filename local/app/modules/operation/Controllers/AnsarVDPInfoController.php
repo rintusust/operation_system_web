@@ -610,10 +610,10 @@ class AnsarVDPInfoController extends Controller
         $report_data = ${"bng_data"};
         $member = DB::table('tbl_vdp_ansar_info AS vi')
             ->join('tbl_vdp_designation AS d', 'd.id', '=', 'vi.designation')
-            ->join('db_amis.tbl_units AS u', 'u.id', '=', 'vi.unit_id')
-            ->join('db_amis.tbl_thana AS t', 't.id', '=', 'vi.thana_id')
-            ->join('db_amis.tbl_division AS dn', 'dn.id', '=', 'vi.division_id')
-            ->join('db_amis.tbl_blood_group AS bg', 'bg.id', '=', 'vi.blood_group_id')
+            ->join('tbl_units AS u', 'u.id', '=', 'vi.unit_id')
+            ->join('tbl_thana AS t', 't.id', '=', 'vi.thana_id')
+            ->join('tbl_division AS dn', 'dn.id', '=', 'vi.division_id')
+            ->join('tbl_blood_group AS bg', 'bg.id', '=', 'vi.blood_group_id')
             ->where('vi.geo_id', '=', $id)
             ->select('vi.id','vi.geo_id', 'vi.ansar_name_bng as name', 'd.designation_name_bng as rank', 'd.card_color as card_color', 'bg.blood_group_name_bng as blood_group', 'u.unit_name_bng as unit_name', 'u.unit_code', 'dn.division_name_bng as division_name','dn.division_code','t.thana_name_bng as thana_name','vi.union_word_text','vi.profile_pic', 'vi.date_of_birth','vi.sign_pic')->first();
         if ($member) {
